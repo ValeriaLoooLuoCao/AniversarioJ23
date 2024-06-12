@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: pink;
+  } 
+.conten1 img {
+  height: 100px 
+}
+.conten1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+  font-size: 60px;
+  font-family : Arial, Helvetica, sans-serif;
+  margin: 30px;
+  }
+  
+  .pastel{
+  display:flex;
+  justify-tracks: center;
+  align-items: center;
+  }
+.conten2 img {
+  height: 100px 
+}
+  .conten2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  color:#9c86f7;
+  }
